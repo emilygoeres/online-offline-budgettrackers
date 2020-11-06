@@ -3,7 +3,7 @@
 ## Description
 <!-- ### Deployed link: https://egfitnesstracker.herokuapp.com/ -->
 ### Deployed Link: 
-You can let yourself get lost in the woods, but don't ever let your self get lost in your own personal finances. Whether you are in the middle of the woods or standing in the middle of google's campus, track your spedning habits online and offline to ensrue you make rent!
+Traveling somewhere for vacation? Traveling sometimes takes you to a dirt road with no cell reception. Have no fear, track your finances with our budget tracker offline while traveling the dirt road and online once you get back into the big city.
 
 ## Table of Contents
 1. [Description](#-Description)
@@ -18,11 +18,10 @@ You can let yourself get lost in the woods, but don't ever let your self get los
 ![budgettracker](.PNG)
 
 ## Technologies 
-* NoSQL
-* MongoDB
-* Object-document mapping
-* Mongoose.js
-* CRUD
+* Heroku
+* MongoDB Atlas
+* Rendering
+* 
 
 ## Installation
 1. Clone this repository to your local machine. 
@@ -30,7 +29,7 @@ You can let yourself get lost in the woods, but don't ever let your self get los
 1. Install all npm packages. Modify the config.json to work with your own sql.  
     
 ## Steps
-1.
+1. Create routes to home and index file
 
 ## Author
 
