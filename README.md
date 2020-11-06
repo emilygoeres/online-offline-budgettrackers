@@ -32,6 +32,7 @@ Traveling somewhere for vacation? Traveling sometimes takes you to a dirt road w
 1. Create routes to home and index file
 2. Create alll of the different routes to each file in app
 3. Installed image cache to ensure images only load if on screen while using app
+4. Tell the browser to activate this service worker immediately once it has finished installing
 
 ## Author
 
