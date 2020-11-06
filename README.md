@@ -34,6 +34,8 @@ Traveling somewhere for vacation? Traveling sometimes takes you to a dirt road w
 3. Installed image cache to ensure images only load if on screen while using app
 4. Tell the browser to activate this service worker immediately once it has finished installing
 5. If response was good clone/store it to cache
+6. Network request failed, try to get it from the cache
+7. Deployed app on Heroku 
 
 
 ## Author
