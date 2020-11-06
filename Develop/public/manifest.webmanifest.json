@@ -8,7 +8,7 @@
         "type": "image/png"
       },
       {
-        "src": "icons/icon-192-192.png",
+        "src": "icons/icon-512-512.png",
         "sizes": "512x512",
         "type": "image/png"
       }
