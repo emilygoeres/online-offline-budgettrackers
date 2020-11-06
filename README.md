@@ -1,8 +1,7 @@
 # online-offline-budgettrackers
 
 ## Description
-<!-- ### Deployed link: https://egfitnesstracker.herokuapp.com/ -->
-### Deployed Link: 
+### Deployed link: https://egfitnesstracker.herokuapp.com/ 
 Traveling somewhere for vacation? Traveling sometimes takes you to a dirt road with no cell reception. Have no fear, track your finances with our budget tracker offline while traveling the dirt road and online once you get back into the big city.
 
 ## Table of Contents
@@ -15,7 +14,7 @@ Traveling somewhere for vacation? Traveling sometimes takes you to a dirt road w
 
 ## Visuals 
 
-![budgettracker](.PNG)
+![budgettracker](https://github.com/emilygoeres/online-offline-budgettrackers/blob/main/budget.PNG)
 
 ## Technologies 
 * Heroku
