@@ -1,7 +1,8 @@
 # online-offline-budgettrackers
 
 ## Description
-### Deployed link: https://egfitnesstracker.herokuapp.com/ 
+<!-- ### Deployed link: https://egfitnesstracker.herokuapp.com/  -->
+### Deployed Link: https://drive.google.com/file/d/1kHznhu2eQZNh5iYvpKOiDQQJ6dWg-Qr-/view
 Traveling somewhere for vacation? Traveling sometimes takes you to a dirt road with no cell reception. Have no fear, track your finances with our budget tracker offline while traveling the dirt road and online once you get back into the big city.
 
 ## Table of Contents
@@ -20,7 +21,6 @@ Traveling somewhere for vacation? Traveling sometimes takes you to a dirt road w
 * Heroku
 * MongoDB Atlas
 * Rendering
-* 
 
 ## Installation
 1. Clone this repository to your local machine. 
@@ -35,7 +35,6 @@ Traveling somewhere for vacation? Traveling sometimes takes you to a dirt road w
 5. If response was good clone/store it to cache
 6. Network request failed, try to get it from the cache
 7. Deployed app on Heroku 
-
 
 ## Author
 
